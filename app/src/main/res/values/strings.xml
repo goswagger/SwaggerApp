@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Swagger</string>
+    <string name="user">My Page</string>
+    <string name="home">Swagger Home</string>
+    <string name="prompt">Athlete ID:</string>
+    <string name="ath_id">"  "(Enter Your Athlete ID)</string>
+</resources>
